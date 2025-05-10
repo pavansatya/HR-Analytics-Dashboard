@@ -45,6 +45,12 @@ Cross-tab of satisfaction scores across various job roles (Scale: 1 to 4).
 Highlights roles with high dissatisfaction and potential churn risk.
 
 
+## 🔗 Tableau Public Access
+
+👉 **[Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/views/Book2_17466676791720/HRANALYTICSDASHBOARD)**  
+*(Best viewed on desktop for full interactivity)*
+
+
 ## 📌 Tools Used
 Tableau: Primary tool for creating interactive visualizations.
 
