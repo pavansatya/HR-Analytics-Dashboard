@@ -58,15 +58,17 @@ MS Excel / CSV: Used for data preprocessing and importing into Tableau.
 
 
 ## 🚀 Getting Started
-To explore or build upon this project:
 
-Clone the repository
-
-Open the Tableau workbook (.twb or .twbx) in Tableau Desktop or Tableau Public
-
-Connect it to the dataset if required
-
-Interact with the dashboard or customize visualizations
+To embed this dashboard elsewhere:
+1. Publish your Tableau Dashboard to Tableau Public
+2. Use the **iframe embed code**:
+   ```html
+   <iframe 
+     src="https://public.tableau.com/views/Book2_17466676791720/HRANALYTICSDASHBOARD?:embed=y&:display_count=yes" 
+     width="1200" 
+     height="800" 
+     style="border:none;">
+   </iframe>
 
 
 ## 🧠 Insights Derived
